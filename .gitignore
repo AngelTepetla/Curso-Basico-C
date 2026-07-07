@@ -1,0 +1,11 @@
+*.html
+
+# Configs
+.DS_Store
+.settings/
+artifacts/
+build/
+test/
+
+.vscode/settings.json
+.vscode
